@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T07:59:55.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7hhUgZO1Zb23WyX0LoWT" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T08:08:25.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="X-ZB9jHdqrGMhFNvSbmU" version="22.1.2" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
-    <mxGraphModel dx="1366" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
           <mxGeometry x="731" y="1083" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-1" value="Подсистема хранения данных" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127" y="1518" width="294" height="456" as="geometry" />
+          <mxGeometry x="127" y="1518" width="294" height="477" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-2" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-1">
           <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
@@ -190,6 +190,72 @@
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-11" value="Таблицы базы данных" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-9">
           <mxGeometry x="-0.5" y="53" width="179.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-12" value="Подсистема ввода-вывода" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="1518" width="294" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-13" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-12">
+          <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-14" value="С#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-13">
+          <mxGeometry y="33" width="33" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-15" value="Программное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-12">
+          <mxGeometry x="19" y="115" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-16" value=".NET" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-15">
+          <mxGeometry y="30" width="45" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-17" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-12">
+          <mxGeometry x="19" y="219" width="259" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-18" value="Документация C#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-17">
+          <mxGeometry y="35.75" width="117" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-23" value="Подсистема обработки данных" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759" y="1518" width="294" height="481" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-24" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-23">
+          <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-25" value="С#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-24">
+          <mxGeometry y="33" width="33" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-26" value="Программное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-23">
+          <mxGeometry x="19" y="115" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-27" value=".NET" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-26">
+          <mxGeometry y="30" width="45" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-28" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-23">
+          <mxGeometry x="17" y="294" width="259" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-29" value="Документация C#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-28">
+          <mxGeometry x="-0.5" y="31.5" width="117" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-31" value="Математическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-23">
+          <mxGeometry x="16.5" y="371" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-32" value="Алгоритм фильтрования данных" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-31">
+          <mxGeometry x="-0.5" y="31" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-37" value="Алгоритм распознавания движений" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-31">
+          <mxGeometry y="59" width="216" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-34" value="Информационное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-23">
+          <mxGeometry x="17" y="195" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-35" value="Базы данных" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-34">
+          <mxGeometry x="-0.5" y="31" width="91" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-36" value="Таблицы базы данных" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-34">
+          <mxGeometry x="-0.5" y="53" width="179.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-38" value="Техническое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="2018" width="928" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-39" value="ПК и смартфон" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-38">
+          <mxGeometry y="30" width="103" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
