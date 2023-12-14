@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T05:57:48.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hqm-rL7yngWLbLlr2QSq" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T04:44:50.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VwKxTaVXqtDII-ve4XJm" version="22.1.8" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
-    <mxGraphModel dx="1434" dy="792" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,10 +152,10 @@
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-39" value="Сервер: ПК на базе AMD RYZEN 5 2600x с 16ГБ оперативной памяти" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-38" vertex="1">
           <mxGeometry x="8" y="29" width="406" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t0PKNFKbj3jleWJ-KIZI-2" value="Общесистемное ПО сервера: Windows 11, IIS Manager" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-38">
+        <mxCell id="t0PKNFKbj3jleWJ-KIZI-2" value="Общесистемное ПО сервера: Windows 11, IIS Manager" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-38" vertex="1">
           <mxGeometry x="8" y="55" width="1211" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t0PKNFKbj3jleWJ-KIZI-3" value="Клиент: мобильное устройство с Андроид 7.0 или выше&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-38">
+        <mxCell id="t0PKNFKbj3jleWJ-KIZI-3" value="Клиент: мобильное устройство с Андроид 7.0 или выше&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-38" vertex="1">
           <mxGeometry x="8" y="82" width="1217" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-41" value="Подсистема инерциальной навигации" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -173,7 +173,7 @@
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-47" value="Документация Arduino" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-46" vertex="1">
           <mxGeometry y="35.75" width="143" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t0PKNFKbj3jleWJ-KIZI-4" value="Документацуия акселерометра" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-46">
+        <mxCell id="t0PKNFKbj3jleWJ-KIZI-4" value="Документацуия акселерометра" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-46" vertex="1">
           <mxGeometry y="64" width="239" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="nKgSE3EkpWKNaFI7mvdM-49" target="nKgSE3EkpWKNaFI7mvdM-59" edge="1">
@@ -531,6 +531,60 @@
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nKgSE3EkpWKNaFI7mvdM-142" target="nKgSE3EkpWKNaFI7mvdM-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVEOqqsNRCNZb2ut2GVW-1" target="MVEOqqsNRCNZb2ut2GVW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-1" value="Ускорения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVEOqqsNRCNZb2ut2GVW-2" target="MVEOqqsNRCNZb2ut2GVW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-2" value="Фильтр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVEOqqsNRCNZb2ut2GVW-3" target="MVEOqqsNRCNZb2ut2GVW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-3" value="Интегрирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVEOqqsNRCNZb2ut2GVW-4" target="MVEOqqsNRCNZb2ut2GVW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-4" value="Фильтр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVEOqqsNRCNZb2ut2GVW-5" target="MVEOqqsNRCNZb2ut2GVW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-5" value="Интегрирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="788" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVEOqqsNRCNZb2ut2GVW-6" target="MVEOqqsNRCNZb2ut2GVW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-6" value="Интерполяция" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="926" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-12" value="Отсутствует&lt;br&gt;Фильтр Калмана&lt;br&gt;Расширенный фильтр Калмана" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="3486" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-13" value="Отсутствует&lt;br&gt;Фильтр Калмана&lt;br&gt;Расширенный фильтр Калмана" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="3486" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-14" value="Метод прямоугольников&lt;br&gt;Метод трапеций&lt;br&gt;Метод парабол" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="3486" width="120" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-15" value="Метод прямоугольников&lt;br&gt;Метод трапеций&lt;br&gt;Метод парабол" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="788" y="3486" width="120" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-16" value="Линейная&lt;br&gt;Кубическими сплайнами&lt;br&gt;Полиномом Лагранжа" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="3486" width="120" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-17" value="Траектория" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="3410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
