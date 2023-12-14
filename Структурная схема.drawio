@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T04:44:50.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VwKxTaVXqtDII-ve4XJm" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T04:54:25.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xpFzJGAuUcbTtp8QhSyJ" version="22.1.8" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
-    <mxGraphModel dx="1195" dy="660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="792" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -585,6 +585,21 @@
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-17" value="Траектория" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1063" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVEOqqsNRCNZb2ut2GVW-19" target="MVEOqqsNRCNZb2ut2GVW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-19" value="Получаем входные данные, показывающие ускорения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="3793" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVEOqqsNRCNZb2ut2GVW-20" target="MVEOqqsNRCNZb2ut2GVW-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-20" value="Разделяем полученный массив данных, путём удаления тишины" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="3875" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-22" value="Получаем траектории движений с помощью оптимального алгоритма" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234.5" y="3973" width="206" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
