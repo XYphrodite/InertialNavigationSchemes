@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T02:02:33.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="A6s1rt37qY74JXZlQuRD" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T02:05:27.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J_mIqXuQ6BFYPicadYGa" version="22.1.18" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
-    <mxGraphModel dx="1062" dy="612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1033" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -670,13 +670,34 @@
           <mxGeometry x="8" y="55" width="1211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-37" value="Мобильное приложение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="1944" width="242" height="311" as="geometry" />
+          <mxGeometry x="348" y="1944" width="319" height="347" as="geometry" />
         </mxCell>
-        <mxCell id="ZVdsV8nFcNDab4a7GRcG-38" value="Техническое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="2173" width="224" height="69" as="geometry" />
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-42" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-37">
+          <mxGeometry x="7" y="28" width="298" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ZVdsV8nFcNDab4a7GRcG-39" value="Смартфон с системой Androind" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-38">
-          <mxGeometry y="31" width="193" height="26" as="geometry" />
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-43" value="С#&lt;br&gt;xaml" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-42">
+          <mxGeometry x="2" y="24" width="43" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-44" value="Программное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-37">
+          <mxGeometry x="8" y="103" width="298" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-45" value="Xamarin forms" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-44">
+          <mxGeometry y="30" width="96" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-46" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-37">
+          <mxGeometry x="8" y="177" width="299" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-47" value="Документация C#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-46">
+          <mxGeometry y="23" width="117" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-48" value="Документация xaml" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-46">
+          <mxGeometry y="49" width="127" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-38" value="Техническое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-37">
+          <mxGeometry x="8" y="265" width="300" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-39" value="Смартфон с системой Androind версии 7.0 и выше" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-38">
+          <mxGeometry y="31" width="300" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
