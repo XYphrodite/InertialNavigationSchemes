@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T01:32:06.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PA4mjDt_hi_mjAnmdr_T" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T01:37:40.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XjqwyIBycrlcNQs9c4XE" version="22.1.18" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
-    <mxGraphModel dx="797" dy="459" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,110 +51,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-1" value="Подсистема хранения данных" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="127" y="1518" width="294" height="477" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-2" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-1" vertex="1">
-          <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-3" value="SQL-запросы" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-2" vertex="1">
-          <mxGeometry y="33" width="93" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-4" value="Программное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-1" vertex="1">
-          <mxGeometry x="19" y="115" width="260" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-5" value="SQL Server Management Studio" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-4" vertex="1">
-          <mxGeometry y="30" width="191" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-6" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-1" vertex="1">
-          <mxGeometry x="19" y="194.5" width="259" height="96.5" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-7" value="Документация&amp;nbsp;SQL Server Management &lt;br&gt;Studio" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-6" vertex="1">
-          <mxGeometry y="27.75" width="237" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-8" value="Документация&amp;nbsp;SQL" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-6" vertex="1">
-          <mxGeometry y="64.5" width="125" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-9" value="Информационное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-1" vertex="1">
-          <mxGeometry x="19" y="307" width="260" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-11" value="Таблицы:&lt;br&gt;— Users&lt;br&gt;— Workouts&lt;br&gt;— Posts&lt;br&gt;— Casts&lt;br&gt;— Exercises" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-9" vertex="1">
-          <mxGeometry y="30" width="179.5" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-12" value="Подсистема ввода-вывода" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="447" y="1518" width="294" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-13" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-12" vertex="1">
-          <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-14" value="С#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-13" vertex="1">
-          <mxGeometry y="33" width="33" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-15" value="Программное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-12" vertex="1">
-          <mxGeometry x="19" y="115" width="260" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-16" value=".NET" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-15" vertex="1">
-          <mxGeometry y="30" width="45" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-17" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-12" vertex="1">
-          <mxGeometry x="19" y="194" width="259" height="67.5" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-18" value="Документация C#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-17" vertex="1">
-          <mxGeometry y="35.75" width="117" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-23" value="Подсистема обработки данных" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="759" y="1518" width="294" height="481" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-24" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
-          <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-25" value="С#, Python" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-24" vertex="1">
-          <mxGeometry y="33" width="77" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-26" value="Программное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
-          <mxGeometry x="19" y="115" width="260" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-27" value=".NET" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-26" vertex="1">
-          <mxGeometry y="30" width="45" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-28" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
-          <mxGeometry x="17" y="294" width="259" height="70.5" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-29" value="Документация C#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-28" vertex="1">
-          <mxGeometry x="-0.5" y="31.5" width="117" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-31" value="Математическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
-          <mxGeometry x="16.5" y="371" width="260" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-32" value="Алгоритм фильтрации данных" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-31" vertex="1">
-          <mxGeometry x="-0.5" y="31" width="187" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-37" value="Алгоритм распознавания движений" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-31" vertex="1">
-          <mxGeometry y="59" width="216" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-34" value="Информационное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
-          <mxGeometry x="17" y="195" width="260" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-35" value="Базы данных" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-34" vertex="1">
-          <mxGeometry x="-0.5" y="31" width="91" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-36" value="Таблицы базы данных" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-34" vertex="1">
-          <mxGeometry x="-0.5" y="53" width="179.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-38" value="Техническое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="127" y="2018" width="1236" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-39" value="Сервер: ПК на базе AMD RYZEN 5 2600x с 16ГБ оперативной памяти" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-38" vertex="1">
-          <mxGeometry x="8" y="29" width="406" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="t0PKNFKbj3jleWJ-KIZI-2" value="Общесистемное ПО сервера: Windows 11, IIS Manager" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-38" vertex="1">
-          <mxGeometry x="8" y="55" width="1211" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="t0PKNFKbj3jleWJ-KIZI-3" value="Клиент: мобильное устройство с Андроид 7.0 или выше&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-38" vertex="1">
-          <mxGeometry x="8" y="82" width="1217" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-41" value="Cистема инерциальной навигации" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="1688" width="296" height="311" as="geometry" />
+          <mxGeometry x="1271" y="1510" width="296" height="311" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-42" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-41" vertex="1">
           <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
@@ -674,6 +572,102 @@
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-34" value="Преобразователь данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="261" width="158" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-36" value="Серверное приложение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="1328" width="963" height="605" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-1" value="Подсистема хранения данных" style="swimlane;whiteSpace=wrap;html=1;" parent="ZVdsV8nFcNDab4a7GRcG-36" vertex="1">
+          <mxGeometry x="17" y="32" width="294" height="439" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-2" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-1" vertex="1">
+          <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-3" value="SQL-запросы" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-2" vertex="1">
+          <mxGeometry y="33" width="93" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-4" value="Программное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-1" vertex="1">
+          <mxGeometry x="19" y="115" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-5" value="SQL Server Management Studio" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-4" vertex="1">
+          <mxGeometry y="30" width="191" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-6" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-1" vertex="1">
+          <mxGeometry x="19" y="194.5" width="259" height="96.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-7" value="Документация&amp;nbsp;SQL Server Management &lt;br&gt;Studio" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-6" vertex="1">
+          <mxGeometry y="27.75" width="237" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-8" value="Документация&amp;nbsp;SQL" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-6" vertex="1">
+          <mxGeometry y="64.5" width="125" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-9" value="Информационное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-1" vertex="1">
+          <mxGeometry x="19" y="307" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-11" value="Таблицы:&lt;br&gt;— Users&lt;br&gt;— Workouts&lt;br&gt;— Posts&lt;br&gt;— Casts&lt;br&gt;— Exercises" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-9" vertex="1">
+          <mxGeometry y="30" width="179.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-12" value="Подсистема ввода-вывода" style="swimlane;whiteSpace=wrap;html=1;" parent="ZVdsV8nFcNDab4a7GRcG-36" vertex="1">
+          <mxGeometry x="337" y="33" width="294" height="441" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-13" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-12" vertex="1">
+          <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-14" value="С#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-13" vertex="1">
+          <mxGeometry y="33" width="33" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-15" value="Программное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-12" vertex="1">
+          <mxGeometry x="19" y="115" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-16" value=".NET" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-15" vertex="1">
+          <mxGeometry y="30" width="45" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-17" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-12" vertex="1">
+          <mxGeometry x="19" y="194" width="259" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-18" value="Документация C#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-17" vertex="1">
+          <mxGeometry y="35.75" width="117" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-23" value="Подсистема обработки данных" style="swimlane;whiteSpace=wrap;html=1;" parent="ZVdsV8nFcNDab4a7GRcG-36" vertex="1">
+          <mxGeometry x="649" y="34" width="294" height="441" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-24" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
+          <mxGeometry x="11" y="33" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-25" value="С#, Python" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-24" vertex="1">
+          <mxGeometry y="33" width="77" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-26" value="Программное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
+          <mxGeometry x="11" y="105" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-27" value=".NET" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-26" vertex="1">
+          <mxGeometry y="30" width="45" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-28" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
+          <mxGeometry x="12" y="176" width="259" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-29" value="Документация C#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-28" vertex="1">
+          <mxGeometry x="-0.5" y="31.5" width="117" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-31" value="Математическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
+          <mxGeometry x="12" y="249.5" width="260" height="106.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-32" value="Алгоритм фильтрации данных" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-31" vertex="1">
+          <mxGeometry y="24" width="187" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-37" value="Алгоритм распознавания движений" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-31" vertex="1">
+          <mxGeometry y="45.5" width="216" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-35" value="Численные методы интегрирования &lt;br&gt;и интерполирования" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-31">
+          <mxGeometry y="65.5" width="219" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-38" value="Техническое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="ZVdsV8nFcNDab4a7GRcG-36" vertex="1">
+          <mxGeometry x="17" y="494" width="927" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-39" value="Сервер: ПК на базе AMD RYZEN 5 2600x с 16ГБ оперативной памяти" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-38" vertex="1">
+          <mxGeometry x="8" y="29" width="406" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="t0PKNFKbj3jleWJ-KIZI-2" value="Общесистемное ПО сервера: Windows 11, IIS Manager" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-38" vertex="1">
+          <mxGeometry x="8" y="55" width="1211" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
