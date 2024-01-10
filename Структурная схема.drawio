@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T01:20:56.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Wag6ZqarvUFjduadrELF" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T01:22:12.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WMSZUjF9bnbdQe8vUKRs" version="22.1.18" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
-    <mxGraphModel dx="819" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -521,7 +521,7 @@
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MVEOqqsNRCNZb2ut2GVW-2" target="MVEOqqsNRCNZb2ut2GVW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MVEOqqsNRCNZb2ut2GVW-2" value="Фильтр" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-2" value="Фильтрация" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="376" y="3410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MVEOqqsNRCNZb2ut2GVW-3" target="MVEOqqsNRCNZb2ut2GVW-4" edge="1">
@@ -533,7 +533,7 @@
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MVEOqqsNRCNZb2ut2GVW-4" target="MVEOqqsNRCNZb2ut2GVW-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MVEOqqsNRCNZb2ut2GVW-4" value="Фильтр" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MVEOqqsNRCNZb2ut2GVW-4" value="Фильтрация" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="652" y="3410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MVEOqqsNRCNZb2ut2GVW-5" target="MVEOqqsNRCNZb2ut2GVW-6" edge="1">
@@ -549,19 +549,19 @@
           <mxGeometry x="926" y="3410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-12" value="Отсутствует&lt;br&gt;Фильтр Калмана&lt;br&gt;Расширенный фильтр Калмана" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="376" y="3486" width="120" height="85" as="geometry" />
+          <mxGeometry x="376" y="3481" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-13" value="Отсутствует&lt;br&gt;Фильтр Калмана&lt;br&gt;Расширенный фильтр Калмана" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="652" y="3486" width="120" height="85" as="geometry" />
+          <mxGeometry x="652" y="3480" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-14" value="Метод прямоугольников&lt;br&gt;Метод трапеций&lt;br&gt;Метод парабол" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="514" y="3486" width="120" height="86" as="geometry" />
+          <mxGeometry x="511" y="3480" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-15" value="Метод прямоугольников&lt;br&gt;Метод трапеций&lt;br&gt;Метод парабол" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="788" y="3486" width="120" height="83" as="geometry" />
+          <mxGeometry x="788" y="3480" width="120" height="83" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-16" value="Линейная&lt;br&gt;Кубическими сплайнами&lt;br&gt;Полиномом Лагранжа" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="925" y="3486" width="120" height="81" as="geometry" />
+          <mxGeometry x="926" y="3480" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-17" value="Траектория" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1063" y="3410" width="120" height="60" as="geometry" />
