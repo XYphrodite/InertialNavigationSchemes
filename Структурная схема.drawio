@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T02:05:27.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J_mIqXuQ6BFYPicadYGa" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T02:07:08.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RA0ImY3hbMrkvlzVp2n7" version="22.1.18" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
     <mxGraphModel dx="1793" dy="1033" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -646,10 +646,13 @@
           <mxGeometry x="12" y="176" width="259" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-29" value="Документация C#" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-28" vertex="1">
-          <mxGeometry x="-0.5" y="31.5" width="117" height="26" as="geometry" />
+          <mxGeometry y="22.25" width="117" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-50" value="Документация Python" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="nKgSE3EkpWKNaFI7mvdM-28">
+          <mxGeometry y="44.5" width="139" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-31" value="Математическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
-          <mxGeometry x="12" y="249.5" width="260" height="106.5" as="geometry" />
+          <mxGeometry x="12" y="257" width="260" height="106.5" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-32" value="Алгоритм фильтрации данных" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-31" vertex="1">
           <mxGeometry y="24" width="187" height="26" as="geometry" />
@@ -698,6 +701,9 @@
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-39" value="Смартфон с системой Androind версии 7.0 и выше" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-38">
           <mxGeometry y="31" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-52" value="Веб-клиент" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="678" y="1944" width="313" height="345" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
