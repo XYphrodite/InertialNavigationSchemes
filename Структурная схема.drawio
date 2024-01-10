@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T02:09:08.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="D4sz9GhKCBj412_OQntk" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T02:16:44.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gBoPwBFwCpRvJ2uKHGQd" version="22.1.18" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
-    <mxGraphModel dx="1509" dy="869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -604,7 +604,7 @@
           <mxGeometry x="19" y="307" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-11" value="Таблицы:&lt;br&gt;— Users&lt;br&gt;— Workouts&lt;br&gt;— Posts&lt;br&gt;— Casts&lt;br&gt;— Exercises" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-9" vertex="1">
-          <mxGeometry y="30" width="179.5" height="90" as="geometry" />
+          <mxGeometry y="29" width="179.5" height="91" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-12" value="Подсистема обработки HTTP-запросов" style="swimlane;whiteSpace=wrap;html=1;" parent="ZVdsV8nFcNDab4a7GRcG-36" vertex="1">
           <mxGeometry x="337" y="33" width="294" height="441" as="geometry" />
@@ -703,7 +703,7 @@
           <mxGeometry y="31" width="300" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-52" value="Веб-клиент" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="1944" width="313" height="272" as="geometry" />
+          <mxGeometry x="673.5" y="1944" width="321.5" height="272" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-53" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="ZVdsV8nFcNDab4a7GRcG-52">
           <mxGeometry x="10" y="27" width="298" height="68" as="geometry" />
