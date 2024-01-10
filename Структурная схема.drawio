@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T01:22:12.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WMSZUjF9bnbdQe8vUKRs" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T01:24:30.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ev7CmRo2ioHBzlngWGms" version="22.1.18" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
-    <mxGraphModel dx="1195" dy="688" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,16 +224,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-74" value="Обработка данных" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="364" y="3941" width="120" height="60" as="geometry" />
+          <mxGeometry x="359" y="3832" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="nKgSE3EkpWKNaFI7mvdM-76" target="nKgSE3EkpWKNaFI7mvdM-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-76" value="Запись в базу данных" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="365" y="4026" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="3917" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-78" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="365" y="4111" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="4002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-82" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="164" y="4239" width="60" height="30" as="geometry" />
@@ -570,36 +570,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-19" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="604" y="3791" width="120" height="60" as="geometry" />
+          <mxGeometry x="593" y="3750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="MVEOqqsNRCNZb2ut2GVW-20" target="MVEOqqsNRCNZb2ut2GVW-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-20" value="Разделяем полученный массив данных, путём удаления тишины" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="561.5" y="3873" width="205" height="70" as="geometry" />
+          <mxGeometry x="550.5" y="3832" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="MVEOqqsNRCNZb2ut2GVW-22" target="MVEOqqsNRCNZb2ut2GVW-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-22" value="Получаем траекторию движения с помощью оптимального алгоритма" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="560.5" y="4075" width="206" height="60" as="geometry" />
+          <mxGeometry x="549.5" y="4034" width="206" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="MVEOqqsNRCNZb2ut2GVW-24" target="MVEOqqsNRCNZb2ut2GVW-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-24" value="Сравниваем полученную траекторию движения с траекториями известных движений и выбираем самое подходящее движение" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="559" y="4161" width="209" height="85" as="geometry" />
+          <mxGeometry x="548" y="4120" width="209" height="85" as="geometry" />
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="MVEOqqsNRCNZb2ut2GVW-26" target="MVEOqqsNRCNZb2ut2GVW-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="794" y="4308" />
-              <mxPoint x="794" y="4009" />
+              <mxPoint x="783" y="4267" />
+              <mxPoint x="783" y="3968" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-26" value="Получаем название движения&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="559" y="4278" width="208" height="60" as="geometry" />
+          <mxGeometry x="548" y="4237" width="208" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="MVEOqqsNRCNZb2ut2GVW-27" target="MVEOqqsNRCNZb2ut2GVW-22">
           <mxGeometry relative="1" as="geometry" />
@@ -607,13 +607,13 @@
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="MVEOqqsNRCNZb2ut2GVW-27" target="ZVdsV8nFcNDab4a7GRcG-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="536" y="4009" />
-              <mxPoint x="536" y="4381" />
+              <mxPoint x="525" y="3968" />
+              <mxPoint x="525" y="4340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MVEOqqsNRCNZb2ut2GVW-27" value="i=0;&lt;br&gt;i&amp;lt;количество траекторий;&lt;br&gt;i++" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="565.5" y="3969" width="197" height="80" as="geometry" />
+          <mxGeometry x="554.5" y="3928" width="197" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-1" value="Bluetooth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="602" y="417" width="76" height="29" as="geometry" />
@@ -643,7 +643,7 @@
           <mxGeometry x="278" y="295" width="106" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-12" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="618.5" y="4442" width="91" height="60" as="geometry" />
+          <mxGeometry x="607.5" y="4401" width="91" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="ZVdsV8nFcNDab4a7GRcG-15" target="ZVdsV8nFcNDab4a7GRcG-16">
           <mxGeometry relative="1" as="geometry" />
@@ -658,7 +658,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-19" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="364" y="3859" width="120" height="60" as="geometry" />
+          <mxGeometry x="359" y="3750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-21" value="Запись продолжается?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="71" y="4122" width="206" height="80" as="geometry" />
@@ -667,7 +667,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-22" value="Группируем движения по названиям и подсчитываем их количество" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="559" y="4351" width="210" height="60" as="geometry" />
+          <mxGeometry x="548" y="4310" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
