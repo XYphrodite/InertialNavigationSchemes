@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:29:37.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7Qh6K2A8wUW9fVofXx3m" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:30:43.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="buFE_5tAEzIUCZchQ-GC" version="24.2.2" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
     <mxGraphModel dx="1674" dy="778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -57,23 +57,23 @@
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-42" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-41" vertex="1">
           <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-43" value="Arduino C" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-42" vertex="1">
-          <mxGeometry y="33" width="71" height="26" as="geometry" />
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-43" value="C/C++" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-42" vertex="1">
+          <mxGeometry y="33" width="53" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-46" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-41" vertex="1">
           <mxGeometry x="17.5" y="112" width="259" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="nKgSE3EkpWKNaFI7mvdM-47" value="Документация Arduino" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-46" vertex="1">
-          <mxGeometry y="35.75" width="143" height="26" as="geometry" />
+        <mxCell id="nKgSE3EkpWKNaFI7mvdM-47" value="Документация esp8266" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-46" vertex="1">
+          <mxGeometry y="35.75" width="147" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="t0PKNFKbj3jleWJ-KIZI-4" value="Документацуия акселерометра" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-46" vertex="1">
+        <mxCell id="t0PKNFKbj3jleWJ-KIZI-4" value="Документация акселерометра mpu6050" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nKgSE3EkpWKNaFI7mvdM-46" vertex="1">
           <mxGeometry y="64" width="239" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-26" value="Техническое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="nKgSE3EkpWKNaFI7mvdM-41" vertex="1">
           <mxGeometry x="17.5" y="224" width="258.5" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="ZVdsV8nFcNDab4a7GRcG-32" value="Микроконтроллер Arduino,&lt;br&gt;акселерометр mpu6050" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ZVdsV8nFcNDab4a7GRcG-26" vertex="1">
-          <mxGeometry y="23" width="166" height="41" as="geometry" />
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-32" value="Микроконтроллер esp8266,&lt;br&gt;Акселерометр mpu6050" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ZVdsV8nFcNDab4a7GRcG-26" vertex="1">
+          <mxGeometry y="23" width="171" height="41" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="nKgSE3EkpWKNaFI7mvdM-49" target="nKgSE3EkpWKNaFI7mvdM-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -684,8 +684,8 @@
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-44" value="Программное обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="ZVdsV8nFcNDab4a7GRcG-37" vertex="1">
           <mxGeometry x="8" y="103" width="298" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="ZVdsV8nFcNDab4a7GRcG-45" value="Xamarin forms" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ZVdsV8nFcNDab4a7GRcG-44" vertex="1">
-          <mxGeometry y="30" width="96" height="26" as="geometry" />
+        <mxCell id="ZVdsV8nFcNDab4a7GRcG-45" value="MAUI" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="ZVdsV8nFcNDab4a7GRcG-44" vertex="1">
+          <mxGeometry y="30" width="48" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-46" value="Методологическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;" parent="ZVdsV8nFcNDab4a7GRcG-37" vertex="1">
           <mxGeometry x="8" y="177" width="299" height="81" as="geometry" />
