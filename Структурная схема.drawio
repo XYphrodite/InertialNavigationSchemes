@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T13:46:31.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sHCZtupTu7Ggc2iG27yr" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T13:47:25.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="In4nTJeF3QhTnNMi17YO" version="22.1.18" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
-    <mxGraphModel dx="1195" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4097" dy="2246" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-41" value="Cистема инерциальной навигации" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="39" y="1944" width="296" height="311" as="geometry" />
+          <mxGeometry x="1183" y="1874" width="296" height="311" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-42" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nKgSE3EkpWKNaFI7mvdM-41" vertex="1">
           <mxGeometry x="19" y="36" width="260" height="67" as="geometry" />
@@ -574,7 +574,7 @@
           <mxGeometry x="278" y="261" width="158" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-36" value="Серверное приложение" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="39" y="1328" width="963" height="605" as="geometry" />
+          <mxGeometry x="32" y="1208" width="777" height="1088" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-1" value="Подсистема хранения данных" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZVdsV8nFcNDab4a7GRcG-36" vertex="1">
           <mxGeometry x="17" y="32" width="294" height="439" as="geometry" />
@@ -628,7 +628,7 @@
           <mxGeometry y="23" width="117" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-23" value="Подсистема обработки данных" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="ZVdsV8nFcNDab4a7GRcG-36" vertex="1">
-          <mxGeometry x="649" y="34" width="294" height="441" as="geometry" />
+          <mxGeometry x="17" y="484" width="294" height="441" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-24" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="nKgSE3EkpWKNaFI7mvdM-23" vertex="1">
           <mxGeometry x="11" y="33" width="260" height="67" as="geometry" />
@@ -664,7 +664,7 @@
           <mxGeometry y="65.5" width="219" height="41" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-38" value="Техническое обеспечение" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ZVdsV8nFcNDab4a7GRcG-36" vertex="1">
-          <mxGeometry x="17" y="494" width="927" height="89" as="geometry" />
+          <mxGeometry x="337" y="487" width="295" height="127" as="geometry" />
         </mxCell>
         <mxCell id="nKgSE3EkpWKNaFI7mvdM-39" value="ПК на базе AMD RYZEN 5 2600x с 16ГБ оперативной памяти" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nKgSE3EkpWKNaFI7mvdM-38" vertex="1">
           <mxGeometry x="8" y="29" width="357" height="26" as="geometry" />
@@ -673,7 +673,7 @@
           <mxGeometry x="8" y="55" width="1211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-37" value="Мобильное приложение" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="348" y="1944" width="319" height="347" as="geometry" />
+          <mxGeometry x="1492" y="1874" width="319" height="347" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-42" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ZVdsV8nFcNDab4a7GRcG-37" vertex="1">
           <mxGeometry x="7" y="28" width="298" height="68" as="geometry" />
@@ -703,7 +703,7 @@
           <mxGeometry y="31" width="300" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-52" value="Веб-клиент" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="673.5" y="1944" width="321.5" height="272" as="geometry" />
+          <mxGeometry x="1817.5" y="1874" width="321.5" height="272" as="geometry" />
         </mxCell>
         <mxCell id="ZVdsV8nFcNDab4a7GRcG-53" value="Лингвистическое обеспечение" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="ZVdsV8nFcNDab4a7GRcG-52" vertex="1">
           <mxGeometry x="10" y="27" width="298" height="68" as="geometry" />
