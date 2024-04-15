@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T13:46:07.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ZeuLMMEx_T-8huRTOje_" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T13:46:31.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sHCZtupTu7Ggc2iG27yr" version="22.1.18" type="github">
   <diagram name="Страница 1" id="ufSTGprs4LsOGQLuZF8g">
-    <mxGraphModel dx="2049" dy="1123" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="655" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -814,16 +814,16 @@
         <mxCell id="cXaTM1u7MnG6-FxnceX5-26" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Фитнес-трекер&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cXaTM1u7MnG6-FxnceX5-27">
           <mxGeometry y="0.5339037952009656" width="204.5424528301887" height="23.42639101391949" as="geometry" />
         </mxCell>
-        <mxCell id="cXaTM1u7MnG6-FxnceX5-28" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="cXaTM1u7MnG6-FxnceX5-28" value="" style="group;strokeWidth=5;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1991" y="3520" width="200" height="390" as="geometry" />
         </mxCell>
         <mxCell id="OdbelEilYxORT_9_ZvKV-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.phone2;strokeColor=#000000;" parent="cXaTM1u7MnG6-FxnceX5-28" vertex="1">
           <mxGeometry width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="OdbelEilYxORT_9_ZvKV-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Калибровочная траектория&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="cXaTM1u7MnG6-FxnceX5-28" vertex="1">
+        <mxCell id="OdbelEilYxORT_9_ZvKV-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Калибровочная траектория&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" parent="cXaTM1u7MnG6-FxnceX5-28" vertex="1">
           <mxGeometry x="20" y="57.01999999999998" width="160" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="OdbelEilYxORT_9_ZvKV-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Начать тренировку&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="cXaTM1u7MnG6-FxnceX5-28" vertex="1">
+        <mxCell id="OdbelEilYxORT_9_ZvKV-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Начать тренировку&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" parent="cXaTM1u7MnG6-FxnceX5-28" vertex="1">
           <mxGeometry x="19" y="185.01999999999998" width="162" height="116" as="geometry" />
         </mxCell>
         <mxCell id="cXaTM1u7MnG6-FxnceX5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=7;" edge="1" parent="1" source="cXaTM1u7MnG6-FxnceX5-18" target="OdbelEilYxORT_9_ZvKV-9">
